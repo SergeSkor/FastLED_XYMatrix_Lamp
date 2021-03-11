@@ -13,7 +13,8 @@ Features:
 9) Speed change (not for all effects done yet, control from web-page only);
 10) Style change (not for all effects done yet, control from web-page only);
 11) NTP support, can show time/date;
-12) Save all settings in flash when turned off, restore it on power up and turn on.
+12) NTP supports auto-DST changes;
+13) Save all settings in flash when turned off, restore it on power up and turn on.
 
 See video here: https://www.youtube.com/watch?v=zFcnNPhO3xU
 
